@@ -31,12 +31,12 @@ Submit entries in the https://discord.gg/rocketpool channel #trading -> #Swag-Co
 
 ## How:
 
-Create a design you would want to put on a t-shirt (it will also potentially go on hoodies/mugs etc.). Preference is probably for Rocket Pool themed, however, if the community likes it and we think it will sell, then whatever (Ethereum, general Crypto etc.). TRADEMARKS and COPYRIGHTS must be respected! -- Rocket Pool official images are okay to use.
+Create a design you would want to put on a t-shirt (it will also potentially go on hoodies/mugs etc.). Preference is probably for Rocket Pool themed, however, if the community likes it and we think it will sell, then whatever (Ethereum, general Crypto etc.). TRADEMARKS and COPYRIGHTS must be respected! -- Rocket Pool official images are okay to use. Sometimes simple is best.
 
 *Format:*
 ```
 SVG/JPG/PNG
-Roughly 11"x11" (4500px x 5100px at 300 DPI) or smaller (think t-shirt front)
+Roughly 11"x11" (4500px x 5100px at 300 DPI) or smaller size (think t-shirt front)
 ```
 
 Vector is preferred, but a quality bitmap should be fine.
@@ -81,4 +81,7 @@ Example 2: Two people submit very similar designs, but one is favored by the com
 
 >[!WARNING]
 >If you edit your submission after you post it without judge persmission, it might invalidate your entry
+
+### Questions?
+Contact @drdoofus here or in the discord
 
